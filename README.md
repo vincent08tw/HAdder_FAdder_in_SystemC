@@ -36,13 +36,13 @@ HAdder_FAdder_in_SystemC/
     |   +-- main.cpp
     |   +-- Makefile
     |
-	+-- result/
-	|   +-- RESULT.vcd
-	+-- img/
-	|   FAdder_schematic.PNG
-	|   HAdder_schematic.PNG
-	|
-	README.md
+    +-- result/
+    |   +-- RESULT.vcd
+    +-- img/
+    |   FAdder_schematic.PNG
+    |   HAdder_schematic.PNG
+    |
+    README.md
 ```
 
 
