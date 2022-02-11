@@ -9,9 +9,9 @@ Implement a half-adder and a full adder in SystemC.
 	* Ubuntu 18.04
 
 * Specification  
-	* A half-adder schematic
+	* A half-adder schematic  
 		![](./img/HAdder_schematic.PNG)
-	* A full-adder schematic
+	* A full-adder schematic  
 		![](./img/FAdder_schematic.PNG)
 ```
 half-adder module
